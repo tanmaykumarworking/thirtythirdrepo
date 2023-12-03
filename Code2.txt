@@ -1,1 +1,2 @@
 opened the code 2 file in the text editor.
+this is another document opened below.
